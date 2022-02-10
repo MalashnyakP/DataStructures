@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test:linkedlist": "jest --coverage --testPathPattern=LinkedList/",
+    "test:binarytree": "jest --coverage --testPathPattern=BinarySearchTree/"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7",
+    "ts-jest": "^27.1.3"
+  }
+}
